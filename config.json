@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentserify",
+        "uuid": 12571117,
+        "checksum": "y5aj3c"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
